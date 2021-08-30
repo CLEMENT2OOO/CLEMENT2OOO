@@ -1,0 +1,4 @@
+- 👋 Salut, je m'appelle Clément
+- 👀 Je suis passionné par l'informatique
+- 🌱 Je suis actuellement en train d'apprendre pleins de choses...
+- 📫 Vous pouvez me contacter via mon courriel : testclementy@gmail.com
